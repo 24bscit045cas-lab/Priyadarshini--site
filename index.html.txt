@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Priyadharshini">
+<title>Priyadharshini's Portfolio</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+color: #333;
+}
+
+header {
+background-color: #4CAF50;
+color: white;
+text-align: center;
+padding: 20px 0;
+}
+
+header h1 {
+margin: 0;
+}
+
+section {
+padding: 20px;
+margin: 20px;
+background-color: #fff;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info,
+.about,
+.skills {
+margin-bottom: 20px;
+}
+
+.skills ul {
+list-style-type: none;
+padding: 0;
+}
+
+.skills ul li {
+background-color: #e0e0e0;
+margin: 5px 0;
+padding: 8px;
+border-radius: 5px;
+}
+
+footer {
+background-color: #333;
+color: white;
+text-align: center;
+padding: 10px;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Welcome to My Portfolio</h1>
+<p>Hi, I'm Priyadharshini, a 2nd-year BSc IT student</p>
+</header>
+
+<section class="about">
+<h2>About Me</h2>
+<p>I'm currently pursuing a Bachelor of Science in Information Technology (BSc IT). I have a passion for technology,
+coding, and web development. I enjoy learning new programming languages and exploring the latest trends in
+the IT industry.</p>
+</section>
+
+<section class="skills">
+<h2>Skills</h2>
+<ul>
+<li>HTML & CSS</li>
+<li>JavaScript</li>
+<li>Python</li>
+<li>React.js</li>
+<li>Database Management</li>
+<li>Problem Solving</li>
+</ul>
+</section>
+
+<section class="contact-info">
+<h2>Contact Info</h2>
+<p>Email: priyadharshini@email.com</p>
+<p>LinkedIn: <a href="https://www.linkedin.com" target="_blank">LinkedIn Profile</a></p>
+</section>
+
+<footer>
+<p>&copy; 2025 Priyadharshini | BSc IT Student</p>
+</footer>
+
+</body>
+
+</html>
