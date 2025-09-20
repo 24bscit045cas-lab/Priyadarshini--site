@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio - Priyadharshini</title>
+</head>
+<body bgcolor="lightpink" text="black">
+
+
+  <center>
+    <h1>My Portfolio</h1>
+    <h2>Priyadharshini</h2>
+    <h3>B.Sc. Information Technology</h3>
+    <hr>
+  </center>
+
+
+  <!-- About Me -->
+  <h2>About Me</h2>
+  <p>
+    Hello! My name is <b>Priyadharshini</b>. I am currently studying 
+    <b>B.Sc. Information Technology</b>.  
+    I am passionate about web development, programming, and learning 
+    new technologies.  
+  </p>
+
+
+  <!-- Education -->
+  <h2>Education</h2>
+  <ul>
+    <li>Currently pursuing: B.Sc. Information Technology</li>
+    <li>Higher Secondary School Completed</li>
+    <li>High School Completed</li>
+  </ul>
+
+
+  <!-- Skills -->
+  <h2>My Skills</h2>
+  <ol>
+    <li>HTML & CSS</li>
+    <li>JavaScript Basics</li>
+    <li>Java Programming</li>
+    <li>Problem Solving</li>
+  </ol>
+
+
+  <!-- Projects -->
+  <h2>Projects</h2>
+  <p>Some sample projects I have worked on:</p>
+  <ul>
+    <li>Simple Personal Portfolio Website</li>
+    <li>Student Registration Form</li>
+    <li>College Timetable Page</li>
+  </ul>
+
+
+  <!-- Contact -->
+  <h2>Contact Me</h2>
+  <p>Email: <a href="mailto:priyadharshini@example.com">priyadharshini@example.com</a></p>
+  <p>Phone: +91-9876543210</p>
+
+
+  <hr>
+  <center>
+    <p>&copy; 2025 Priyadharshini | B.Sc. IT Student</p>
+  </center>
+
+
+</body>
+</html>
